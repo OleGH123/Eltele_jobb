@@ -1,0 +1,6 @@
+c:\users\olegh.corp\documents\visual studio 2017\Projects\Eltele_oppgave1\Eltele_oppgave1\obj\Debug\Eltele_oppgave1.csprojResolveAssemblyReference.cache
+c:\users\olegh.corp\documents\visual studio 2017\Projects\Eltele_oppgave1\Eltele_oppgave1\bin\Debug\Eltele Oppgave1.exe.config
+c:\users\olegh.corp\documents\visual studio 2017\Projects\Eltele_oppgave1\Eltele_oppgave1\bin\Debug\Eltele Oppgave1.exe
+c:\users\olegh.corp\documents\visual studio 2017\Projects\Eltele_oppgave1\Eltele_oppgave1\bin\Debug\Eltele Oppgave1.pdb
+c:\users\olegh.corp\documents\visual studio 2017\Projects\Eltele_oppgave1\Eltele_oppgave1\obj\Debug\Eltele Oppgave1.exe
+c:\users\olegh.corp\documents\visual studio 2017\Projects\Eltele_oppgave1\Eltele_oppgave1\obj\Debug\Eltele Oppgave1.pdb
